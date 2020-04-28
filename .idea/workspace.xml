@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77844090-78b0-4a8c-87b8-2b32a116b0a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporate.php" beforeDir="false" afterPath="$PROJECT_DIR$/corporate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landscape.php" beforeDir="false" afterPath="$PROJECT_DIR$/landscape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.php" beforeDir="false" afterPath="$PROJECT_DIR$/studio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weddings.php" beforeDir="false" afterPath="$PROJECT_DIR$/weddings.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="smith_photography" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ai3Z4Pqz4tPdGr06C8Y525PMUr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\smith_photography\resources" />
+      <recent name="C:\xampp\htdocs\projects\smith_photography\bootstrap\css\Resources" />
+      <recent name="C:\xampp\htdocs\projects\smith_photography" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\smith_photography\bootstrap\css" />
+      <recent name="C:\xampp\htdocs\projects\smith_photography\bootstrap\css\custom.css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77844090-78b0-4a8c-87b8-2b32a116b0a7" name="Default Changelist" comment="" />
+      <created>1587204638950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587204638950</updated>
+      <workItem from="1587204641673" duration="2911000" />
+      <workItem from="1587210668457" duration="5058000" />
+      <workItem from="1587246344773" duration="918000" />
+      <workItem from="1587247284733" duration="546000" />
+      <workItem from="1587411614285" duration="4476000" />
+      <workItem from="1587497534738" duration="8810000" />
+      <workItem from="1587583724387" duration="11022000" />
+      <workItem from="1587595413263" duration="2538000" />
+      <workItem from="1587667578781" duration="9823000" />
+      <workItem from="1587678370982" duration="1852000" />
+      <workItem from="1587747585025" duration="1500000" />
+      <workItem from="1587918027115" duration="4132000" />
+      <workItem from="1588014104196" duration="9735000" />
+      <workItem from="1588072664284" duration="5586000" />
+      <workItem from="1588103610250" duration="8927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1588106248947">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588106248947" />
+    <state x="634" y="354" key="NewPhpFileDialog" timestamp="1588072719940">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1588072719940" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1588072669624">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1588072669624" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1587678700337">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1587678700337" />
+  </component>
+</project>

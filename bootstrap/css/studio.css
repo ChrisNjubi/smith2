@@ -1,0 +1,62 @@
+.navbar{
+    background-color: #000000;
+}
+
+
+/*LINKS INSIDE THE NAVBAR*/
+ul{
+    padding: 8px 10px;
+    margin-left: 40%;
+    font-size: 20px;
+    color: white;
+}
+/*LINKS INSIDE THE DROPDOWN*/
+.dropdown-menu a{
+    color: black;
+    text-align: left;
+    float: none;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+
+}
+/* Add a red background color to navbar links on hover */
+ul a:hover, .dropdown:hover {
+    background-color: #e60000;
+}
+/* Add a grey background color to dropdown links on hover */
+.dropdown-menu a:hover {
+    background-color: #e60000;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+
+
+/*Images*/
+.image{
+    width: auto;
+    height: 400px;
+}
+.image-2{
+    width: auto;
+    height: 400px;
+}
+.image-3{
+    width: auto;
+    height: 400px;
+}
+.image-4 {
+    width: auto;
+    height: 400px;
+}
+.image-5{
+    width: auto;
+    height: 400px;
+}
+.alt-slideshow{
+    width: auto;
+    height: 500px;
+}
